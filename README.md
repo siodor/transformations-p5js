@@ -11,7 +11,7 @@ rect(20, 20, 40, 40);
 
 ```
 
-![alt](./Screen Shot 2016-07-20 at 11.44.08 AM.png?raw=true)
+![alt](Screen Shot 2016-07-20 at 11.44.08 AM.png?raw=true)
 
 
 If you want to move the rectangle 60 units right and 80 units down, you _can_ change the coordinates, by adding to the _x_ and _y_ starting point:
