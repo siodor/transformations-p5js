@@ -11,7 +11,6 @@ rect(20, 20, 40, 40);
 
 ```
 
-![alt]("Screen Shot 2016-07-20 at 11.44.08 AM.png")
 <img src="/Screen Shot 2016-07-20 at 11.44.08 AM.png">
 
 If you want to move the rectangle 60 units right and 80 units down, you _can_ change the coordinates, by adding to the _x_ and _y_ starting point:
@@ -23,7 +22,7 @@ rect(20 + 60, 20 + 80, 40, 40);
 
 ```
 
-![alt](Screen Shot 2016-07-20 at 12.01.01 PM.png)
+<img src="/Screen Shot 2016-07-20 at 12.01.01 PM.png">
 
 Here, you can see the original rectangle in gray and it's twin in red.
 
@@ -37,7 +36,7 @@ rect(20, 20, 40, 40);
 
 ```
 
-![alt](Screen Shot 2016-07-20 at 12.04.14 PM.png)
+<img src="/Screen Shot 2016-07-20 at 12.04.14 PM.png">
 
 You can tell the two rectangles are in the same spot because of that weird tan color you get by mixing red and green, haha!
 
@@ -217,7 +216,7 @@ function drawSnowman(x, y) {
 
 ```
 
-![alt](Screen Shot 2016-07-20 at 2.36.02 PM.png)
+<img src="/Screen Shot 2016-07-20 at 2.36.02 PM.png">
 
 ## Rotation
 
@@ -250,7 +249,7 @@ function setup(){
 
 ```
 
-![alt](Screen Shot 2016-07-20 at 2.22.21 PM.png)
+<img src="/Screen Shot 2016-07-20 at 2.22.21 PM.png">
 
 Hey, what happened? How come the square got moved and cut off? The answer is: the square did not move. The **grid** was rotated and on the rotated coordinate system, the square still has its upper left corner at (40, 40).
 
@@ -292,7 +291,7 @@ function setup(){
 }
 ```
 ￼
-![](Screen Shot 2016-07-20 at 2.26.38 PM.png)
+![](Screen Shot 2016-07-20 at 2.26.38 PM.png">
 
 Here's a program that generates a wheel of colors by using rotation! <3
 
@@ -318,7 +317,7 @@ function draw(){
 
 ```
 
-![alt](Screen Shot 2016-07-20 at 2.31.44 PM.png)
+<img src="/Screen Shot 2016-07-20 at 2.31.44 PM.png">
 
 
 ## Scaling
@@ -379,7 +378,7 @@ function setup() {
 }
 ```
 
-![alt](Screen Shot 2016-07-20 at 3.19.04 PM.png)
+<img src="/Screen Shot 2016-07-20 at 3.19.04 PM.png">
 
 # Order Matters
 
@@ -434,7 +433,7 @@ function setup() {
 
 ```
 
-![alt](Screen Shot 2016-07-20 at 2.49.54 PM.png)
+<img src="/Screen Shot 2016-07-20 at 2.49.54 PM.png">
 
 # Before we go...
 
