@@ -291,7 +291,7 @@ function setup(){
 }
 ```
 ￼
-![](Screen Shot 2016-07-20 at 2.26.38 PM.png">
+<img src="/Screen Shot 2016-07-20 at 2.26.38 PM.png">
 
 Here's a program that generates a wheel of colors by using rotation! <3
 
